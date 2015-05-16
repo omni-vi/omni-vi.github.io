@@ -2,8 +2,8 @@ body {
   background-color: #f2f2f2;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 600;
-    font-size: 16px;
-    color: #D1E1D4;
+    font-size: 16;
+    color: #CADAD4;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -13,7 +13,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 900;
-    color: #C1D1BE;
+    color: #678D80;
 }
 
 
@@ -30,7 +30,7 @@ p {
 
 /* Links */
 a {
-    color: #FFFAE6;
+    color: #DACDCA;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -42,7 +42,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #7B9588;
+    color: #8D7A75;
     text-decoration: none;
     outline: 0;
 }
